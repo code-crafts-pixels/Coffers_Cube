@@ -56,30 +56,25 @@ COFFERS CUBE is a full-stack food delivery web application that allows users to 
 ---
 
 ## 📸 Screenshots
-
-
-<!-- <img width="1864" height="909" alt="Screenshot 2026-01-30 214152" src="https://github.com/user-attachments/assets/b376e29c-7305-4b3c-973d-a9ca0e5c3695" />
-
-<img width="1853" height="554" alt="Screenshot 2026-01-30 214220" src="https://github.com/user-attachments/assets/17615829-df6f-4ae0-835a-6e261b247434" />
-
-<img width="1886" height="1074" alt="Screenshot 2026-01-30 214309" src="https://github.com/user-attachments/assets/a97608a9-02a7-413a-bb97-a36816776613" /> -->
-
+## 1
 <a href="https://github.com/code-crafts-pixels/Coffers_Cube" target="_blank">
     <img src="https://github.com/user-attachments/assets/b376e29c-7305-4b3c-973d-a9ca0e5c3695" 
          alt="Screenshot 1" 
-         width="600">
+         width="1700">
 </a>
 
+## 2
 <a href="https://github.com/code-crafts-pixels/Coffers_Cube" target="_blank">
     <img src="https://github.com/user-attachments/assets/17615829-df6f-4ae0-835a-6e261b247434" 
          alt="Screenshot 2" 
-         width="600">
+         width="1700">
 </a>
 
+## 3
 <a href="https://github.com/code-crafts-pixels/Coffers_Cube" target="_blank">
     <img src="https://github.com/user-attachments/assets/a97608a9-02a7-413a-bb97-a36816776613" 
          alt="Screenshot 3" 
-         width="600">
+         width="1700">
 </a>
 
 
