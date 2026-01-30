@@ -57,21 +57,31 @@ COFFERS CUBE is a full-stack food delivery web application that allows users to 
 
 ## 📸 Screenshots
 
-![Landing Page](https://github.com/user-attachments/assets/20529c31-b149-469a-aded-cf32a488dc03)
 
-![Menu Page](https://github.com/user-attachments/assets/35ab2d0e-5729-424c-bce3-5a3293e91210)
+<!-- <img width="1864" height="909" alt="Screenshot 2026-01-30 214152" src="https://github.com/user-attachments/assets/b376e29c-7305-4b3c-973d-a9ca0e5c3695" />
 
-![Cart Page](https://github.com/user-attachments/assets/d26959d6-7f76-47b5-8b4d-073e0f7fd3ae)
+<img width="1853" height="554" alt="Screenshot 2026-01-30 214220" src="https://github.com/user-attachments/assets/17615829-df6f-4ae0-835a-6e261b247434" />
 
-![Checkout Page](https://github.com/user-attachments/assets/de08e481-78b3-469a-8afa-fb724917286a)
+<img width="1886" height="1074" alt="Screenshot 2026-01-30 214309" src="https://github.com/user-attachments/assets/a97608a9-02a7-413a-bb97-a36816776613" /> -->
 
-![My Orders](https://github.com/user-attachments/assets/0ff7af8a-cad4-408b-b433-992f5e169170)
+<a href="https://github.com/code-crafts-pixels/Coffers_Cube" target="_blank">
+    <img src="https://github.com/user-attachments/assets/b376e29c-7305-4b3c-973d-a9ca0e5c3695" 
+         alt="Screenshot 1" 
+         width="600">
+</a>
 
-![Login / Register](https://github.com/user-attachments/assets/17a426a6-f4d9-4e81-be74-1b5c0a6daff2)
+<a href="https://github.com/code-crafts-pixels/Coffers_Cube" target="_blank">
+    <img src="https://github.com/user-attachments/assets/17615829-df6f-4ae0-835a-6e261b247434" 
+         alt="Screenshot 2" 
+         width="600">
+</a>
 
-![Admin - Add Item](https://github.com/user-attachments/assets/12ce15ca-e87c-4dc4-9ed3-0fc3df3dd3bb)
+<a href="https://github.com/code-crafts-pixels/Coffers_Cube" target="_blank">
+    <img src="https://github.com/user-attachments/assets/a97608a9-02a7-413a-bb97-a36816776613" 
+         alt="Screenshot 3" 
+         width="600">
+</a>
 
-![Admin Dashboard](https://github.com/user-attachments/assets/de82126b-0986-4efb-b795-1c7d9d3f6264)
 
 ---
 
